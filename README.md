@@ -1,4 +1,4 @@
-# ReactNativeTodoApp
+# React Native Todo App
 ###
 ![alt text](todoappscreen.jpeg "screen1")
 
